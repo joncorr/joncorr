@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jonathan.
-- 👀 I’m interested in all things software development: developer experience, ALM, architecture, work process, and more.
-- 🌱 I’m currently tinkering with functional languages (Erlang, Clojure) and containers. 
-- 💞️ I’m looking to collaborate on anything fun. 
+- 👀 My interests include dev experience, ALM, architecture, dev process, and more.
+- 🌱 I’m tinkering with functional languages (Erlang, Clojure) and containers. 
 - 📫 /in/jonathancorrales
 
 <!---
